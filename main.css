@@ -1,0 +1,51 @@
+.start-page {
+  text-align: center;
+}
+
+.start-button, .start-over {
+  font-size: 50px;
+  border-radius: 20px;
+}
+
+.hide {
+  display: none;
+}
+
+.start-page-image  {
+  display: block;
+  margin: auto;
+  width: 50%
+}
+
+.welcome {
+  font-size: 20px;
+}
+
+.start-over, .answer-submit, .continue {
+  font-size: 18px;
+  border-radius: 30px;
+}
+.end-image {
+  display: block;
+  margin: auto;
+  width: 30%
+}
+
+.game-over-page {
+  text-align: center;
+}
+
+.final-results {
+  font-size: 40px;
+  color: red;
+  margin-bottom: 20px
+}
+.right-wrong {
+  font-size: 35px;
+  color: #009933;
+}
+
+.feedback {
+  color: #0066ff;
+  font-size: 30px;
+}
